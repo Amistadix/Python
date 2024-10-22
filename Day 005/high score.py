@@ -5,5 +5,5 @@ for score in student_scores:
     if score > max_score:
         max_score = score
 print(max_score)
-
+print(sum(student_scores))
 
